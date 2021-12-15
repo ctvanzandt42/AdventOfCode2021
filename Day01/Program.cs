@@ -29,7 +29,7 @@ public static class Program
     {
         var counter = 0;
 
-        for (var i = 1; i < report.Count; i++)
+        for (var i = 0; i < report.Count; i++)
         {
             try
             {
